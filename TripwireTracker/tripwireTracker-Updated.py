@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Display the Iberia Advisory image on the Streamlit application.
-st.image("./Images/iberia-logo.png")
+# st.image("./Images/iberia-logo.png")
 
 ################
 # AUTHENICATION
